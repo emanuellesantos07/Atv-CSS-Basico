@@ -22,6 +22,7 @@
    ---------------------------------------------------------- */
 
 body {
+    background-color: pink;
 
 }
 
@@ -150,6 +151,7 @@ body {
 }
 
 .imagem-habilidade {
+    width: 40%;
 
 }
 
